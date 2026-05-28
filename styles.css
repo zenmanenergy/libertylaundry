@@ -581,4 +581,22 @@ section {
 		padding: 0.8rem 2rem;
 		font-size: 1rem;
 	}
-}
+
+	.pricing-table th {
+		padding: 0.6rem 0.5rem;
+		font-size: 0.75rem;
+	}
+
+	.pricing-table td {
+		padding: 0.6rem 0.5rem;
+		font-size: 0.8rem;
+	}
+
+	.pricing-section {
+		padding: 1.5rem 1rem;
+	}
+
+	.pricing-section h3 {
+		font-size: 1.1rem;
+		margin-bottom: 1rem;
+	}
